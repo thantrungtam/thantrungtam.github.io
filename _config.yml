@@ -14,7 +14,7 @@ timezone: Asia/Saigon
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Than Tam # the main title
+title: Tam's Blog # the main title
 
 tagline: Pentester # it will display as the subtitle
 
@@ -88,9 +88,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: dark
-
-# [dark | light]
+theme_mode: #[dark | light]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -100,7 +98,7 @@ theme_mode: dark
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/lib/black_and_white.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
