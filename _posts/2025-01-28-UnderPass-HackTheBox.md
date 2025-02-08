@@ -181,7 +181,7 @@ Target: http://underpass.htb/
 
 ##  2. SSH Connection.
 
-- **In Users -> Click Go to user list -> find user `svcMosh` and password hash `412DD4759978ACFCC81DEAB01B382403` **
+- **In Users -> Click Go to user list -> find user `svcMosh` and password hash `412DD4759978ACFCC81DEAB01B382403`**
 
 - After that, in command used tool `hash-identifier` to find out the password encryption type.
 
