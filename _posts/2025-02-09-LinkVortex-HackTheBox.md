@@ -124,7 +124,7 @@ Disallow: /email/
 Disallow: /r/
 ~~~
 
-I try access [http://linkvortex.htb/ghost](http://linkvortex.htb/ghost) and discovered the *admin page*, but I don't have any credentials. I try to enumerate subdomains.
+I try access `http://linkvortex.htb/ghost` and discovered the *admin page*, but I don't have any credentials. I try to enumerate subdomains.
 
 ### Fuzz subdomains with fuff
 
@@ -174,7 +174,7 @@ echo "10.10.11.47    dev.linkvortex.htb" | tee -a /etc/hosts"
 
 ### Directory Fuzzing with ffuf 
 
-I proceed to use the technique [Directory Fuzzing](http://thehacker.recipes/web/recon/directory-fuzzing) to discover domain [dev.linkvortex.htb](http://dev.linkvortex.htb).
+I proceed to use the technique [Directory Fuzzing](https://thehacker.recipes/web/recon/directory-fuzzing) to discover domain `http://dev.linkvortex.htb`.
 
 ~~~ shell
 ┌──(trit㉿chimp)-[~/HackTheBox/LinkVortex]
@@ -271,7 +271,7 @@ username: admin@linkvortex.htb
 password: OctopiFociPilfer45
 ~~~
 
-I logged [dev.linkvortex.htb](dev.linkvortex.htb) and found a vulnerability on this server.
+I logged `dev.linkvortex.htb` and found a vulnerability on this server.
 
 ![vulnerability](/assets/img/sample/linkvortex/vulnerability.png)
 
