@@ -4,7 +4,13 @@ date: 28-01-2025
 layout: post
 categories: [Hack The Box]
 tags: [blog, hackthebox, easy, linux, ctf]
+image: 
+    path: /assets/img/sample/UnderPass/UnderPass.jpg
+    alt: UnderPass Lab HackTheBox
 ---
+
+
+
 
 - First, for any Hack The Box lab, I always add DNS settings for the IP of the Hack The Box lab into `/etc/hosts`.
 
