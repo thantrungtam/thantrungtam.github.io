@@ -11,7 +11,7 @@ tags:
   - hackthebox
   - linux
 image: 
-    path: /assets/img/sample/heal/Heal.jpg
+    path: /assets/img/sample/heal/HEAL.jpg
     alt: Heal Lab HackTheBox
 ---
 
