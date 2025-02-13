@@ -1,11 +1,11 @@
 ---
-title: LinkVortex Lab HackTheBox
+title: LinkVortex HackTheBox
 date: 09-02-2025
 layout: post
 categories:
   - Hack The Box
 tags:
-  - blog
+  - writeups
   - ctf
   - easy
   - hackthebox

@@ -1,5 +1,5 @@
 ---
-title: Heal Lab HackTheBox
+title: Heal HackTheBox
 date: 09-02-2025
 layout: post
 categories:

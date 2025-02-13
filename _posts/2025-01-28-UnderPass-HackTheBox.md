@@ -1,9 +1,9 @@
 ---
-title: UnderPass Lab HackTheBox
+title: UnderPass HackTheBox
 date: 28-01-2025
 layout: post
 categories: [Hack The Box]
-tags: [blog, hackthebox, easy, linux, ctf]
+tags: [writeups, hackthebox, easy, linux, ctf]
 image: 
     path: /assets/img/sample/UnderPass/UnderPass.jpg
     alt: UnderPass Lab HackTheBox
