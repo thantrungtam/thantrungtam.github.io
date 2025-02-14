@@ -5,7 +5,7 @@ layout: post
 categories:
   - Hack The Box
 tags:
-  - blog
+  - writeups
   - ctf
   - medium
   - hackthebox
