@@ -11,7 +11,7 @@ tags:
   - hackthebox
   - linux
 image: 
-    path: /assets/img/sample/titanic/titanic.jpg
+    path: /assets/img/sample/titanic/Titanic.jpg
     alt: Titanic Machine HackTheBox
 ---
 
