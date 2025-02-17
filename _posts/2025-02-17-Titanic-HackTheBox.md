@@ -18,6 +18,10 @@ image:
 
 ## Enumeration
 
+
+
+Titanic is a machine that aggregates skills about enmeration, exploitfile traversal vulnerability, crack password,...
+
 ~~~ shell
 ┌──(trit㉿chimp)-[~/HackTheBox/Administrator]
 └─$ echo "10.10.11.55 titanic.htb" | sudo tee -a /etc/hosts
