@@ -17,7 +17,7 @@ image:
 
 ## Introduction
 
-Cypher trên HackTheBox là một khía cạnh quan trọng của các thách thức CTF về an ninh mạng. Nó là một CTF trên linux liên quan đến enumeration, google dorking, decomplier java file, command injection and cypher injection.
+Cypher on HackTheBox is an important aspect of the cybersecurity CTF challenges. It is a CTF on linux that involves enumeration, google dorking, decomplier java file, command injection and cypher injection.
 
 
 ## Enumeration

@@ -1,6 +1,9 @@
 ---
 title: UnderPass HackTheBox
 date: 28-01-2025
+# slug: "underpass-hackthebox"
+# permalink: /posts/underpass-hackthebox/
+
 layout: post
 categories: [Hack The Box]
 tags: [writeups, hackthebox, easy, linux, ctf]
